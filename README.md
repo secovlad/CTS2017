@@ -1,2 +1,2 @@
 # CTS2017
-CTS2017 (Crappy Trucking Simulator 2017) is a little side project I worked on throughout January and February 2017. It's an oversimplified and inaccurate simulation of long-haul trucking. It was a really fun experience! The code is full of don'ts 
+CTS2017 (Crappy Trucking Simulator 2017) is a little side project I worked on throughout January and February 2017. It's an oversimplified and inaccurate simulation of long-haul trucking. It was a really fun experience! The code is full of don'ts because I rushed a couple of things to get it working. If I ever revisit this project, it will be for actually adding things to do to it rather than just press time passes and getting it ported to Android.
